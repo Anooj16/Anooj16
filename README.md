@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 **Anooj N**
 
 <!--
 **Anooj16/Anooj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anooj16&show_icons=true&locale=en&layout=compact" alt="Anooj16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anooj16&show_icons=true&locale=en" alt="Anooj16" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anooj16&" alt="Anooj16" /></p>
