@@ -4,12 +4,11 @@ Welcome to my GitHub profile. I'm a self-taught MERN stack developer who is pass
 
 **About Me**
 
--🚀 Self-taught MERN stack developer
--💡 Enthusiastic about creating high-quality web applications
--🌱 Continuously learning and exploring new technologies
--🎯 Seeking challenging projects to enhance my skills
--📚 Strong problem-solving and analytical abilities
-
+- 🚀 Self-taught MERN stack developer
+- 💡 Enthusiastic about creating high-quality web applications
+- 🌱 Continuously learning and exploring new technologies
+- 🎯 Seeking challenging projects to enhance my skills
+- 📚 Strong problem-solving and analytical abilities
 <!--
 **Anooj16/Anooj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
