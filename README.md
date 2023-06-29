@@ -1,5 +1,15 @@
 ### Hi there 👋 **Anooj N**
 
+Welcome to my GitHub profile. I'm a self-taught MERN stack developer who is passionate about crafting robust and user-friendly web applications. I am actively seeking new opportunities to collaborate on exciting projects and contribute to the tech industry.
+
+**About Me**
+
+🚀 Self-taught MERN stack developer
+💡 Enthusiastic about creating high-quality web applications
+🌱 Continuously learning and exploring new technologies
+🎯 Seeking challenging projects to enhance my skills
+📚 Strong problem-solving and analytical abilities
+
 <!--
 **Anooj16/Anooj16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
